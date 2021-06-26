@@ -1,6 +1,6 @@
 ##dashboards
 
-[MTA subway dashboard](http://dashboard.mta.info/)
+[MTA subway dashboard] (http://dashboard.mta.info/)
 
 ## schedules and fares
 [Ridership](https://github.com/realdatanyc/ridership)
